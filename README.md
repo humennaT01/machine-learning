@@ -8,7 +8,7 @@
      <ul>
      	Homework:
 	<li><a href='https://github.com/humennaT01/machine-learning/blob/main/Homework/Task0/task0.ipynb'>Task0</a></li>
-        <li><a href=''>Task1</a></li>
+        <li><a href='https://github.com/humennaT01/machine-learning/blob/main/Homework/Task1/Linear%20Regression%20-%20Task.ipynb'>Task1</a></li>
      </ul>
      <ul>
          IndividualTask:
