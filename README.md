@@ -20,7 +20,7 @@
      <ul>
          IndividualTask:
          <li><a href=''>Task1</a></li>
-	 <li><Task2</li>
+	 <li>Task2</li>
 	 <li>Task3</li>
      </ul>
    </body>
