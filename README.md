@@ -19,7 +19,7 @@
      </ul>
      <ul>
          IndividualTask:
-         <li><a href=''>Task1</a></li>
+         <li><a href='https://github.com/humennaT01/machine-learning/tree/main/IndividualTask/Regression'>Task1</a></li>
 	 <li>Task2</li>
 	 <li>Task3</li>
      </ul>
