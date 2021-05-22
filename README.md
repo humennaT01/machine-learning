@@ -11,7 +11,7 @@
         <li><a href='https://github.com/humennaT01/machine-learning/blob/main/Homework/Task1/Linear%20Regression%20-%20Task.ipynb'>Task1</a></li>
 	<li><a href='https://github.com/humennaT01/machine-learning/blob/main/Homework/Task2/Multivariate%20LR-Stubs.ipynb'>Task2</a></li>
 	<li><a href='https://github.com/humennaT01/machine-learning/blob/main/Homework/Task3/NeuralNet%20simple.ipynb'>Task3</a></li>
-	<li>Task4</li>
+	<li><a href='https://github.com/humennaT01/machine-learning/blob/main/Homework/Task4/Softmax.ipynb'>Task4</a></li>
      </ul>
      <ul>
          IndividualTask:
