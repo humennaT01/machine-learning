@@ -16,7 +16,6 @@
      <ul>
          IndividualTask:
          <li><a href='https://github.com/humennaT01/machine-learning/blob/main/IndividualTask/Regression/IndivTask1.ipynb'>Task1</a></li>
-	 <li>Task2</li>
      </ul>
    </body>
 </html>
